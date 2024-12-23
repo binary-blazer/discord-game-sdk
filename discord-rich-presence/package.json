@@ -1,0 +1,9 @@
+{
+  "name": "discord-rich-presence",
+  "version": "1.0.0",
+  "license": "MIT",
+  "type": "commonjs",
+  "main": "./index.js",
+  "types": "index.d.ts",
+  "private": true
+}
